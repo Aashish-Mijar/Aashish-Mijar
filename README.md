@@ -54,9 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Mijar&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 
 ---
@@ -70,9 +68,8 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Aashish-Mijar/Aashish-Mijar/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/snake.svg" alt="Snake animation" />
 </p>
-
 ---
 
 <p align="center">
