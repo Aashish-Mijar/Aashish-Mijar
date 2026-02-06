@@ -1,16 +1,79 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Aashish Mijar</h2>
+<h4 align="center">Computer Science Student | Software Developer | Problem Solver</h4>
 
-<!--
-**Aashish-Mijar/Aashish-Mijar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/main/coding-from-home.gif" width="220" alt="Coding from home gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+%7C+Python+%7C+Web+%7C+Database;Building+Real-World+Applications;Learning+and+Improving+Everyday" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science (BICTE) student  
+- 💻 Passionate about **software development & problem-solving**
+- 🧠 Experience in **desktop, web, and hardware-based projects**
+- 🌐 Built **portfolio & commercial websites**
+- 🔌 Worked with **Arduino hardware programming**
+- 📍 Nepal 🇳🇵
+
+---
+
+## 📫 How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aashish-mijar-aab141334">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+ 
+  <a href="https://aashishmijar.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-111827?logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,php,react,mysql,git,github,arduino&perline=6" />
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Mijar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Mijar&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-Mijar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+## 📌 GitHub Summary
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Aashish-Mijar?template=classic&isocalendar=1&languages=1&stars=1&repositories=1&activity=1&base.indepth=true&config.timezone=Asia/Kathmandu&config.theme=dark" />
+</p>
+
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/Aashish-Mijar/Aashish-Mijar/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Build practical solutions. Learn continuously. Grow professionally."</i>
+</p>
