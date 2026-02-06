@@ -118,30 +118,6 @@
 ---
 
 
-## 🎯 GitHub Insights
-
-<div align="center">
-
-### 📈 Real-time Stats
-  
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Mijar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Mijar&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashish-Mijar&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
->
-
-
 
 </div>
 
@@ -150,9 +126,8 @@
 ## 💭 Daily Motivation
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  <br><br>
-  <i>💡 Tip: Consistency beats intensity and motivation. Code a little every day!</i>
+  <br>
+  <i>💡 Tip: Consistency beats intensity and motivation.<br> Code a little every day!</i>
 </p>
 
 ---
