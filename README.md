@@ -83,7 +83,7 @@
 <div align="center">
   
 
-## 🐍 Contribution 
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Aashish-Mijar/Aashish-Mijar/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
