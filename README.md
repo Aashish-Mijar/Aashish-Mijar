@@ -9,9 +9,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Computer+Science+(BICTE)+Student;Java+Developer+%7C+Python+Enthusiast;Full-Stack+Web+Developer;Arduino+%26+Hardware+Projects;Passionate+About+Clean+Code" alt="Typing Animation" />
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Computer+Science+(BICTE)+Student;Python+%7C+Java+Enthusiast;Frontend+Web+Developer;Arduino+Hardware+Programming;Creating+Practical+Applications" alt="Typing Animation" />
+</a>
 </p>
 
 <!-- Divider -->
@@ -90,22 +90,16 @@
 <!-- Activity Graph -->
 <div align="center">
   
-  ### 📈 Contribution Graph
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish-Mijar&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
+### 📈 My Contribution Graph
+
+[![Aashish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish-Mijar&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
@@ -125,7 +119,7 @@
   </a>
   
   <!-- Email -->
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:aashishmijar44@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
@@ -133,43 +127,57 @@
   <a href="https://github.com/Aashish-Mijar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+    
+</p>
+
+---
+
+
+## 🎯 GitHub Insights
+
+<div align="center">
+
+### 📈 Real-time Stats
   
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Mijar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Mijar&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashish-Mijar&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+>
+
+### 👁️ Profile Views & Followers
   
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aashish-Mijar&color=blue&label=Profile+Views" alt="Profile Views" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/github/followers/Aashish-Mijar?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/github/stars/Aashish-Mijar?label=Repository%20Stars" alt="GitHub Stars" />
+</p>
+
+</div>
+
+---
+
+## 💭 Daily Motivation
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <br><br>
+  <i>💡 Tip: Consistency beats intensity and motivation. Code a little every day!</i>
 </p>
 
 ---
 
 
-## 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" height="30" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="30" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="30" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="30" />
-</p>
-
----
-
-## 🎯 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Aashish-Mijar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKathmandu" width="100%" alt="GitHub Metrics" />
-</p>
-
----
-
-## 💭 Quote of the Day
-
-<p align="center">
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aashish-Mijar&color=blue&style=flat-square" alt="Profile Views" />
-</p>
