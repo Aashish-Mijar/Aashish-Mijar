@@ -2,7 +2,7 @@
 <h4 align="center">Computer Science Student | Software Developer | Problem Solver</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/main/coding-from-home.gif" width="220" alt="Coding from home gif" />
+  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/main/coding_from_home.gif" width="220" alt="Coding from home gif" />
 </p>
 
 <p align="center">
