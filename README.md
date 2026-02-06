@@ -59,7 +59,9 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40" />
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" height="40" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="40" />
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" height="40" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio" height="40" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="40" />
+  <!-- <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" title="NetBeans" height="40" /> -->
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" height="40" />
 </p>
 
@@ -81,10 +83,10 @@
 <div align="center">
   
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://github.com/Aashish-Mijar/Aashish-Mijar/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
