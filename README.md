@@ -30,7 +30,6 @@
   <a href="https://www.linkedin.com/in/aashish-mijar-aab141334">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
- 
   <a href="https://aashishmijar.com.np">
     <img src="https://img.shields.io/badge/Portfolio-111827?logo=google-chrome&logoColor=white" />
   </a>
@@ -46,30 +45,29 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Mijar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Mijar&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Mijar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Mijar&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 </p>
 
-
-
-
 ---
+
 ## 📌 GitHub Summary
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Aashish-Mijar?template=classic&isocalendar=1&languages=1&stars=1&repositories=1&activity=1&base.indepth=true&config.timezone=Asia/Kathmandu&config.theme=dark" />
+  <img src="https://metrics.lecoq.io/Aashish-Mijar" />
 </p>
 
+---
 
 ## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/snake.svg" alt="Snake animation" />
 </p>
+
 ---
 
 <p align="center">
