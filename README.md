@@ -55,8 +55,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-Mijar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 ## 📌 GitHub Summary
