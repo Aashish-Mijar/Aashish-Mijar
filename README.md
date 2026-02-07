@@ -1,10 +1,10 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hello, I'm Aashish Mijar</h1>
+<h1 align="center">👋 Hello Coders</h1>
 <h3 align="center">💻 Computer Science Student | 🚀 Software Developer | 🔧 Problem Solver</h3>
 
 <!-- Animated GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/main/coding_from_home.gif" width="300" alt="Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/main/coding_from_home.gif" width="100" height="100" alt="Coding Animation" />
 </p>
 
 <!-- Typing Animation -->
@@ -19,18 +19,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- About Me -->
-## 👨‍💻 About Me
 
-- 🎓 **Computer Science (BICTE)** student passionate about technology
-- 💼 **Software Developer** with hands-on project experience
-- 🌐 Built **commercial websites & personal portfolio** ([aashishmijar.com.np](https://aashishmijar.com.np))
-- 🔌 **Arduino & Embedded Systems** enthusiast
-- 🏆 Participated in various coding competitions and hackathons
-- 📍 **Based in Nepal** 🇳🇵
-- 🎯 **Goal**: Master Full-Stack Development & Cloud Technologies
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -66,29 +55,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <!-- GitHub Stats -->
-  <img height="165em" src="https://github-stats-alpha.vercel.app/api?username=Aashish-Mijar&accent=1F6FEB&theme=dark" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Mijar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  
-
-##  Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/Aashish-Mijar/Aashish-Mijar/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
@@ -118,6 +84,17 @@
 </p>
 
 ---
+
+
+
+<div align="center">
+  
+
+##  Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Aashish-Mijar/Aashish-Mijar/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</p>
 
 
 
