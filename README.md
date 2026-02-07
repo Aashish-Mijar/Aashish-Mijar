@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hello Coders</h1>
-<h3 align="center">💻 Computer Science Student | 🚀 Software Developer | 🔧 Problem Solver</h3>
+<!-- <h3 align="center">💻 Computer Science Student | 🚀 Software Developer | 🔧 Problem Solver</h3> -->
 
 <!-- Animated GIF -->
 <p align="center">
@@ -10,7 +10,7 @@
 <!-- Typing Animation -->
 <p align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Computer+Science+(BICTE)+Student;Python+%7C+Java+Enthusiast;Frontend+Web+Developer;Arduino+Hardware+Programming;Creating+Practical+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Computer+Science+(BICTE)+Student;Python+%7C+AI/ML+Enthusiast;Frontend+Web+Developer;Hardware+Programming+Enthusiast;Creating+Practical+Applications" alt="Typing Animation" />
 </a>
 </p>
 
