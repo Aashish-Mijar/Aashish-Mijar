@@ -4,7 +4,7 @@
 
 <!-- Animated GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/main/coding_from_home.gif" width="100" height="100" alt="Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Aashish-Mijar/Aashish-Mijar/main/coding_from_home.gif" width="200" height="200" alt="Coding Animation" />
 </p>
 
 <!-- Typing Animation -->
